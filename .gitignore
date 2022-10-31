@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Visual Studio files
+**/Debug
+MeetingRoomsPlanner/.vs/meetingRoomsPlanner/**
+UnlimitedMeetingRoomsPlanner/.vs/UnlimitedMeetingRoomsPlanner/**
+UnlimitedMeetingRoomsPlannerWithTiming/.vs/UnlimitedMeetingRoomsPlannerWithTiming/**
